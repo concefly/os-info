@@ -1,0 +1,22 @@
+{
+  "name": "show-os-info",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "os-info": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concefly/os-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/concefly/os-info/issues"
+  },
+  "homepage": "https://github.com/concefly/os-info#readme"
+}
